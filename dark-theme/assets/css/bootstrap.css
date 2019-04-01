@@ -3160,7 +3160,7 @@ fieldset:disabled a.custom-file-control::before {
 
 .btn-link:disabled,
 .btn-link.disabled {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .btn-lg,
@@ -14180,7 +14180,7 @@ fieldset[disabled][disabled] .btn-group-vertical,
 .btn-group-vertical.disabled,
 .btn-group-vertical:disabled,
 .btn-group-vertical[disabled] {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .bg-inverse fieldset[disabled][disabled] .btn,
@@ -14428,7 +14428,7 @@ label.checkbox-inline input[type=checkbox][disabled]+.checkbox-decorator .check,
 label.checkbox-inline input[type=checkbox][disabled] .check,
 fieldset[disabled] label.checkbox-inline input[type=checkbox]+.checkbox-decorator .check,
 fieldset[disabled] label.checkbox-inline input[type=checkbox] .check {
-  border-color: rgba(0, 0, 0, 0.26);
+  border-color: rgb(173, 173, 173) !important;
 }
 
 .checkbox label input[type=checkbox][disabled]+.checkbox-decorator .ripple-container,
@@ -14551,7 +14551,7 @@ fieldset[disabled][disabled] .custom-file-control .custom-file-control,
   width: 100%;
   margin-top: 0.25rem;
   font-size: 80%;
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .custom-file-control .is-focused .valid-tooltip,
@@ -14582,7 +14582,7 @@ fieldset[disabled][disabled] .custom-file-control .custom-file-control,
 .custom-file-control.is-focused .is-valid.custom-file-control,
 .was-validated .custom-file-control.is-focused .custom-select:valid,
 .custom-file-control.is-focused .custom-select.is-valid {
-  border-color: rgba(0, 0, 0, 0.26);
+  border-color: rgb(173, 173, 173) !important;
 }
 
 .was-validated .custom-file-control .is-focused .form-control:valid:focus,
@@ -14597,7 +14597,7 @@ fieldset[disabled][disabled] .custom-file-control .custom-file-control,
 .custom-file-control.is-focused .is-valid.custom-file-control:focus,
 .was-validated .custom-file-control.is-focused .custom-select:valid:focus,
 .custom-file-control.is-focused .custom-select.is-valid:focus {
-  border-color: rgba(0, 0, 0, 0.26);
+  border-color: rgb(173, 173, 173) !important;
   box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.25);
 }
 
@@ -14632,7 +14632,7 @@ fieldset[disabled][disabled] .custom-file-control .custom-file-control,
 .custom-file-control .is-focused .form-check-input.is-valid~.form-check-label,
 .was-validated .custom-file-control.is-focused .form-check-input:valid~.form-check-label,
 .custom-file-control.is-focused .form-check-input.is-valid~.form-check-label {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .was-validated .custom-file-control .is-focused .form-check-input:valid~.valid-feedback,
@@ -14650,7 +14650,7 @@ fieldset[disabled][disabled] .custom-file-control .custom-file-control,
 .custom-file-control .is-focused .custom-control-input.is-valid~.custom-control-label,
 .was-validated .custom-file-control.is-focused .custom-control-input:valid~.custom-control-label,
 .custom-file-control.is-focused .custom-control-input.is-valid~.custom-control-label {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .was-validated .custom-file-control .is-focused .custom-control-input:valid~.custom-control-label::before,
@@ -14689,7 +14689,7 @@ fieldset[disabled][disabled] .custom-file-control .custom-file-control,
 .custom-file-control .is-focused .custom-file-input.is-valid~.custom-file-label,
 .was-validated .custom-file-control.is-focused .custom-file-input:valid~.custom-file-label,
 .custom-file-control.is-focused .custom-file-input.is-valid~.custom-file-label {
-  border-color: rgba(0, 0, 0, 0.26);
+  border-color: rgb(173, 173, 173) !important;
 }
 
 .was-validated .custom-file-control .is-focused .custom-file-input:valid~.custom-file-label::before,
@@ -14726,14 +14726,14 @@ fieldset[disabled][disabled] .custom-file-control .custom-file-control,
 
 .custom-file-control .is-focused .bmd-label-placeholder,
 .custom-file-control.is-focused .bmd-label-placeholder {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .custom-file-control .is-focused .form-control,
 .custom-file-control .is-focused .custom-file-control,
 .custom-file-control.is-focused .form-control,
 .custom-file-control.is-focused .custom-file-control {
-  border-color: rgba(0, 0, 0, 0.26);
+  border-color: rgb(173, 173, 173) !important;
 }
 
 .custom-file-control .is-focused .bmd-help,
@@ -14902,7 +14902,7 @@ fieldset[disabled] .radio label input[type=radio]+.bmd-radio::after,
 label.radio-inline input[type=radio][disabled]+.bmd-radio::after,
 label.radio-inline input[type=radio]:disabled+.bmd-radio::after,
 fieldset[disabled] label.radio-inline input[type=radio]+.bmd-radio::after {
-  border-color: rgba(0, 0, 0, 0.26);
+  border-color: rgb(173, 173, 173) !important;
 }
 
 .radio label input[type=radio][disabled]+.bmd-radio::before,
@@ -14911,7 +14911,7 @@ fieldset[disabled] .radio label input[type=radio]+.bmd-radio::before,
 label.radio-inline input[type=radio][disabled]+.bmd-radio::before,
 label.radio-inline input[type=radio]:disabled+.bmd-radio::before,
 fieldset[disabled] label.radio-inline input[type=radio]+.bmd-radio::before {
-  background-color: rgba(0, 0, 0, 0.26);
+  background-color: rgb(173, 173, 173) !important;
 }
 
 .radio label input[type=radio][disabled]+.bmd-radio .ripple-container,
@@ -15008,7 +15008,7 @@ form {
 .is-focused .checkbox-inline,
 .switch label,
 .is-focused .switch label {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .radio label:hover,
@@ -15134,12 +15134,12 @@ fieldset[disabled] .switch label:focus,
 fieldset[disabled] .is-focused .switch label,
 fieldset[disabled] .is-focused .switch label:hover,
 fieldset[disabled] .is-focused .switch label:focus {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 [class^='bmd-label'],
 [class*=' bmd-label'] {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .form-control,
@@ -15199,7 +15199,7 @@ fieldset[disabled][disabled] .custom-file-control,
   width: 100%;
   margin-top: 0.25rem;
   font-size: 80%;
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .is-focused .valid-tooltip,
@@ -15230,7 +15230,7 @@ fieldset[disabled][disabled] .custom-file-control,
 .is-focused .is-valid.custom-file-control,
 .was-validated .is-focused .custom-select:valid,
 .is-focused .custom-select.is-valid {
-  border-color: rgba(0, 0, 0, 0.26);
+  border-color: rgb(173, 173, 173) !important;
 }
 
 .was-validated .is-focused .form-control:valid:focus,
@@ -15245,7 +15245,7 @@ fieldset[disabled][disabled] .custom-file-control,
 .is-focused .is-valid.custom-file-control:focus,
 .was-validated .is-focused .custom-select:valid:focus,
 .is-focused .custom-select.is-valid:focus {
-  border-color: rgba(0, 0, 0, 0.26);
+  border-color: rgb(173, 173, 173) !important;
   box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.25);
 }
 
@@ -15280,7 +15280,7 @@ fieldset[disabled][disabled] .custom-file-control,
 .is-focused .form-check-input.is-valid~.form-check-label,
 .was-validated .is-focused .form-check-input:valid~.form-check-label,
 .is-focused .form-check-input.is-valid~.form-check-label {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .was-validated .is-focused .form-check-input:valid~.valid-feedback,
@@ -15298,7 +15298,7 @@ fieldset[disabled][disabled] .custom-file-control,
 .is-focused .custom-control-input.is-valid~.custom-control-label,
 .was-validated .is-focused .custom-control-input:valid~.custom-control-label,
 .is-focused .custom-control-input.is-valid~.custom-control-label {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .was-validated .is-focused .custom-control-input:valid~.custom-control-label::before,
@@ -15337,7 +15337,7 @@ fieldset[disabled][disabled] .custom-file-control,
 .is-focused .custom-file-input.is-valid~.custom-file-label,
 .was-validated .is-focused .custom-file-input:valid~.custom-file-label,
 .is-focused .custom-file-input.is-valid~.custom-file-label {
-  border-color: rgba(0, 0, 0, 0.26);
+  border-color: rgb(173, 173, 173) !important;
 }
 
 .was-validated .is-focused .custom-file-input:valid~.custom-file-label::before,
@@ -15374,14 +15374,14 @@ fieldset[disabled][disabled] .custom-file-control,
 
 .is-focused .bmd-label-placeholder,
 .is-focused .bmd-label-placeholder {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .is-focused .form-control,
 .is-focused .custom-file-control,
 .is-focused .form-control,
 .is-focused .custom-file-control {
-  border-color: rgba(0, 0, 0, 0.26);
+  border-color: rgb(173, 173, 173) !important;
 }
 
 .is-focused .bmd-help,
@@ -17006,13 +17006,13 @@ thead.thead-inverse th,
 }
 
 .nav-tabs .nav-link.disabled {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .nav-tabs .nav-link.disabled,
 .nav-tabs .nav-link.disabled:hover,
 .nav-tabs .nav-link.disabled:focus {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgb(173, 173, 173) !important;
 }
 
 .nav-tabs.bg-primary .nav-link {
