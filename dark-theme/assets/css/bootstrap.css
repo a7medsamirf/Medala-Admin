@@ -14491,7 +14491,7 @@ fieldset[disabled] label.checkbox-inline input[type=checkbox]+.checkbox-decorato
 
 .custom-file-control [class^='bmd-label'],
 .custom-file-control [class*=' bmd-label'] {
-  color: rgba(0, 0, 0, 0.26);
+  color: #fff;
 }
 
 .custom-file-control .form-control,
